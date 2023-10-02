@@ -38,4 +38,4 @@ Username: admin<br>
 Password: admin<br>
 
 #For more details Read project Report PDF
-<a>voting_system\Project-Report.pdf</a>
+voting_system\Project-Report.pdf
