@@ -37,5 +37,10 @@ Browse the Voting System in a browser. i.e. and http://localhost/voting_system/s
 Username: admin<br>
 Password: admin<br>
 
-<h4>For more details Read project Report PDF<br></h4>
-voting_system\Project-Report.pdf
+<h2>For more details Read project Report PDF<br></h2>
+<b>Project-Report.pdf</b><br>
+<h2>Screen Shots</h2></br>
+<img width="472" alt="Screenshot 2023-10-02 202131" src="https://github.com/ViNu-23/voting_system/assets/59360964/5e6f4356-f204-4490-b2ed-a1feee99ff39"></br>
+<img width="531" alt="Screenshot 2023-10-02 202039" src="https://github.com/ViNu-23/voting_system/assets/59360964/9d8d2ea4-8729-4cb4-a0d7-41cf7553cc07"></br>
+<img width="472" alt="Screenshot 2023-10-02 202101" src="https://github.com/ViNu-23/voting_system/assets/59360964/3208ccc0-89e8-483d-b6d7-009d3feadf16"></br>
+<img width="469" alt="Screenshot 2023-10-02 202015" src="https://github.com/ViNu-23/voting_system/assets/59360964/ddbbe95d-a7f5-4470-9614-cf57df33acb6">
