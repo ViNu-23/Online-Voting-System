@@ -37,5 +37,5 @@ Browse the Voting System in a browser. i.e. and http://localhost/voting_system/s
 Username: admin<br>
 Password: admin<br>
 
-#For more details Read project Report PDF<br>
+<h4>For more details Read project Report PDF<br></h4>
 voting_system\Project-Report.pdf
