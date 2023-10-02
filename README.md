@@ -21,9 +21,9 @@ Vote<br>
 Requirements<br></b>
 -----------------------------------<br>
 Download and Install any local web server such as XAMPP/WAMP.<br>
-Download the provided source code zip file. (download button is located below)<br>
-Installation/Setup<br>
 
+Installation/Setup<br>
+----------------------------------</br>
 Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".<br>
 Extract the downloaded source code file.<br>
 If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, <br>paste it into the "www" directory.<br>
@@ -39,7 +39,9 @@ Password: admin<br>
 
 <h2>For more details Read project Report PDF<br></h2>
 <b>Project-Report.pdf</b><br>
+
 <h2>Screen Shots</h2></br>
+----------------------------------</br>
 <img width="472" alt="Screenshot 2023-10-02 202131" src="https://github.com/ViNu-23/voting_system/assets/59360964/5e6f4356-f204-4490-b2ed-a1feee99ff39"></br>
 <img width="531" alt="Screenshot 2023-10-02 202039" src="https://github.com/ViNu-23/voting_system/assets/59360964/9d8d2ea4-8729-4cb4-a0d7-41cf7553cc07"></br>
 <img width="472" alt="Screenshot 2023-10-02 202101" src="https://github.com/ViNu-23/voting_system/assets/59360964/3208ccc0-89e8-483d-b6d7-009d3feadf16"></br>
