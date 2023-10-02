@@ -41,7 +41,6 @@ Password: admin<br>
 <b>Project-Report.pdf</b><br>
 
 <h2>Screen Shots</h2></br>
-----------------------------------</br>
 <img width="472" alt="Screenshot 2023-10-02 202131" src="https://github.com/ViNu-23/voting_system/assets/59360964/5e6f4356-f204-4490-b2ed-a1feee99ff39"></br>
 <img width="531" alt="Screenshot 2023-10-02 202039" src="https://github.com/ViNu-23/voting_system/assets/59360964/9d8d2ea4-8729-4cb4-a0d7-41cf7553cc07"></br>
 <img width="472" alt="Screenshot 2023-10-02 202101" src="https://github.com/ViNu-23/voting_system/assets/59360964/3208ccc0-89e8-483d-b6d7-009d3feadf16"></br>
